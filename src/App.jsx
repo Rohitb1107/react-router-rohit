@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <h1>Hello, Rohit</h1>
+      <p>How are you?</p>
     </>
   );
 }
